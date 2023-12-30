@@ -1,6 +1,10 @@
-# Olá, me chamo Tomaz Alves 👋
 
-## Atualmente me aprimorando em analisé de dados 👨‍💻
+
+# Sobre Mim
+
+## Olá, me chamo Tomaz Alves! 👋
+
+### Aprimorando minhas habilidades em análise de dados. 👨‍💻 
 
 <picture>
   <source
@@ -15,3 +19,11 @@
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomaz4lves&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contato
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tomaz4lves)](https://github.com/Tomaz4lves)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/tomaz4lves/)](linkedin.com/in/tomaz4lves/)
+
