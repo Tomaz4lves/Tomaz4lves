@@ -25,5 +25,5 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tomaz4lves)](https://github.com/Tomaz4lves)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/tomaz4lves/)](linkedin.com/in/tomaz4lves/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/tomaz4lves/)](https://www.linkedin.com/in/tomaz4lves/)
 
